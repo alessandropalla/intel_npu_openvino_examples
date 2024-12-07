@@ -1,0 +1,9 @@
+torch
+openvino
+transformers
+opencv-python
+tqdm
+onnx
+torchvision
+intel-npu-acceleration-library
+jupyter
